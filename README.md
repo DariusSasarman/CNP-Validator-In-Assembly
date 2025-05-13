@@ -1,7 +1,7 @@
 # CNP-Validator-In-Assembly
 
 how to run:
-1. Run the installer
+1. Run the installer TASM installer.
 2. Goto C:\Tasm 1.4\Tasm (ish, something like that)
 3. Move files from "files" there, so that MSDOS can see those.
 4. Open "Tasm 1.4 Windows 7 ..." shortcut from desktop (after instalation).
