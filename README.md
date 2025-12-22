@@ -7,7 +7,7 @@
 
 <img width="276" height="537" alt="image" src="https://github.com/user-attachments/assets/3c86c966-e716-4f93-8155-dfa7f2c32d97" />
 
-You can see in 'files' the result yourself. As you can see, statistics based on given input data are generated.
+You can see the result yourself. As you can see, statistics based on given input data are generated.
 
 ## How it works: 
 After calling it, the program launches up in the terminal, prompting you to pick between two options : 
