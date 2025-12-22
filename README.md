@@ -1,5 +1,14 @@
 # CNP-Validator-In-Assembly
 
+## Here's a video of it in action:
+[Screencast from 2025-12-22 21-17-17.webm](https://github.com/user-attachments/assets/10396236-a768-47a0-bf74-4ad990c53d06)
+
+## Here's how a batch-processed file looks:
+
+<img width="276" height="537" alt="image" src="https://github.com/user-attachments/assets/3c86c966-e716-4f93-8155-dfa7f2c32d97" />
+
+You can see in 'files' the result yourself. As you can see, statistics based on given input data are generated.
+
 ## How it works: 
 After calling it, the program launches up in the terminal, prompting you to pick between two options : 
 
@@ -18,14 +27,3 @@ The program checks if the file can be found, read and/or accessed. If so, it pro
 
 After checking all cnp's, it concatenates the result next to each cnp, and, at the end of the file, several statistics such as "Male / Female" count or "Age group" count.
 
-## how to run, in case you don't usually have a MS-DOS emulator running around in your computer:
-1. Run the installer TASM installer.
-2. Goto C:\Tasm 1.4\Tasm (ish, something like that)
-3. Move files from "files" there, so that MSDOS can see those.
-4. Open "Tasm 1.4 Windows 7 ..." shortcut from desktop (after instalation).
-5. MSDOS boots up.
-6. Write "main" in MSDOS terminal (-yeah, yeah I just left it like that.)
-7. Use CNP.txt for file testing
-8. Use dir/cd/ etc commands when in need to explore/fix.
-
-I don't own the rights to said emulator. Only the provided assembly code belongs to me.
